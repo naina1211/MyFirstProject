@@ -1,0 +1,86 @@
+2016-02-29 21:30:47,213 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:30:50,958 - TestSaveForLater - INFO - in testSaveItems
+2016-02-29 21:30:51,616 - TestSaveForLater - ERROR - Error testing save items: org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (338, 238). Other element would receive the click: <div class="overlayScroll" style="overflow-x: auto; overflow-y: scroll; opacity: 1;">...</div>
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 615 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBM-POLCAMPALLI', ip: '10.0.0.7', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\N2987~1.POL\AppData\Local\Temp\scoped_dir5532_25483}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e6a43a7933ca120de3fdb92f024e8905
+2016-02-29 21:30:51,626 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:34:20,985 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:34:23,295 - TestSaveForLater - INFO - in testSaveItems
+2016-02-29 21:34:39,031 - TestSaveForLater - ERROR - Error testing save items: org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (954, 624). Other element would receive the click: <div role="" id="FOZPortal" class="" style="width: 410px; height: 410px; top: 374px; left: 880.5px; background: url(&quot;http://rk.wsimgs.com/wsimgs/rk/images/dp/wcm/201538/0012/img20z.jpg&quot;) -471.829px -504.059px / 1000px no-repeat rgb(255, 255, 255);"></div>
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 38 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBM-POLCAMPALLI', ip: '10.0.0.7', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\N2987~1.POL\AppData\Local\Temp\scoped_dir3720_29823}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 68fe2ccab170bd206b9fdf0f94abf331
+2016-02-29 21:34:39,033 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:34:41,555 - TestSaveForLater - INFO - in testSaveItems
+2016-02-29 21:35:02,136 - TestSaveForLater - INFO - Product Nonstick Madeleine Pan is saved
+2016-02-29 21:40:02,387 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:40:05,001 - TestSaveForLater - INFO - in testSaveItems
+2016-02-29 21:40:27,378 - TestSaveForLater - INFO - Product Breville IQ Kettle Pure is saved
+2016-02-29 21:40:27,381 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:40:29,549 - TestSaveForLater - INFO - in testSaveItems
+2016-02-29 21:40:47,686 - TestSaveForLater - INFO - Product Nonstick Madeleine Pan is saved
+2016-02-29 21:42:26,525 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:42:29,514 - TestSaveForLater - INFO - in testSaveItems
+2016-02-29 21:43:03,416 - TestSaveForLater - INFO - Product Breville IQ Kettle Pure is saved
+2016-02-29 21:43:03,418 - TestSaveForLater - INFO - in clickHome
+2016-02-29 21:43:06,303 - TestSaveForLater - INFO - in testSaveItems
+2016-02-29 21:43:23,411 - TestSaveForLater - INFO - Product Nonstick Madeleine Pan is saved
+2016-03-02 11:15:03,837 - TestSaveForLater - INFO - in clickHome
+2016-03-02 11:15:05,960 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 11:15:25,986 - TestSaveForLater - INFO - Product Breville IQ Kettle Pure is saved
+2016-03-02 11:15:25,989 - TestSaveForLater - INFO - in clickHome
+2016-03-02 11:15:27,967 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 11:15:43,589 - TestSaveForLater - INFO - Product Nonstick Madeleine Pan is saved
+2016-03-02 12:10:28,409 - TestSaveForLater - INFO - in clickHome
+2016-03-02 12:10:31,146 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 12:10:42,492 - TestSaveForLater - ERROR - Error testing save items: org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (954, 624). Other element would receive the click: <div role="" id="FOZPortal" class="" style="width: 410px; height: 410px; top: 374px; left: 880.5px; background: url(&quot;http://rk.wsimgs.com/wsimgs/rk/images/dp/wcm/201538/0012/img20z.jpg&quot;) -485.767px -514.512px / 1000px no-repeat rgb(255, 255, 255);"></div>
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 70 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBM-POLCAMPALLI', ip: '10.0.0.7', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\N2987~1.POL\AppData\Local\Temp\scoped_dir8484_340}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c792f07940f9704f979902cc00db63a7
+2016-03-02 12:10:42,494 - TestSaveForLater - INFO - in clickHome
+2016-03-02 12:10:44,936 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 12:11:06,278 - TestSaveForLater - INFO - Product Nonstick Madeleine Pan is saved
+2016-03-02 12:11:30,743 - TestSaveForLater - INFO - in clickHome
+2016-03-02 12:11:34,111 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 12:11:59,176 - TestSaveForLater - INFO - Product Breville IQ Kettle Pure is saved
+2016-03-02 12:11:59,179 - TestSaveForLater - INFO - in clickHome
+2016-03-02 12:12:01,902 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 12:12:21,519 - TestSaveForLater - INFO - Product Nonstick Madeleine Pan is saved
+2016-03-02 12:13:21,187 - TestSaveForLater - INFO - in clickHome
+2016-03-02 12:13:23,414 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 12:13:46,430 - TestSaveForLater - INFO - Product Breville IQ Kettle Pure is saved
+2016-03-02 12:13:46,430 - TestSaveForLater - INFO - in clickHome
+2016-03-02 12:13:48,886 - TestSaveForLater - INFO - in testSaveItems
+2016-03-02 12:14:09,939 - TestSaveForLater - INFO - Product Nonstick Madeleine Pan is saved
+2016-03-04 19:13:11,918 - TestSaveForLater - INFO - in clickHome
+2016-03-04 19:13:13,966 - TestSaveForLater - INFO - in testSaveItems
+2016-03-04 19:13:31,554 - TestSaveForLater - INFO - Product Breville IQ Kettle Pure is saved
+2016-03-04 19:13:31,557 - TestSaveForLater - INFO - in clickHome
+2016-03-04 19:13:34,477 - TestSaveForLater - INFO - in testSaveItems
+2016-03-04 19:13:40,428 - TestSaveForLater - ERROR - Error testing save items: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'IBM-POLCAMPALLI', ip: '10.0.0.7', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\N2987~1.POL\AppData\Local\Temp\scoped_dir8244_21658}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b5c42ab44fa951c450d6ce8939985eec
+*** Element info: {Using=xpath, value=//a[contains(., 'Nonstick Madeleine Pan')]}

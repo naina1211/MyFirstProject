@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="2" failed="0" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26846" started-at="2016-03-05T04:02:17Z" finished-at="2016-03-05T04:02:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26846" started-at="2016-03-05T04:02:17Z" finished-at="2016-03-05T04:02:44Z">
+      <class name="TestSaveForLater">
+        <test-method status="FAIL" signature="init()[pri:0, instance:TestSaveForLater@c818063]" name="init" is-config="true" duration-ms="0" started-at="2016-03-04T20:02:17Z" finished-at="2016-03-04T20:02:17Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:387)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:494)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:341)
+	at HomeObjects.popupExists(HomeObjects.java:105)
+	at TestSaveForLater.init(TestSaveForLater.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:641)
+	at org.testng.TestRunner.run(TestRunner.java:609)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:207)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:178)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="SKIP" signature="clickHome()[pri:0, instance:TestSaveForLater@c818063]" name="clickHome" is-config="true" duration-ms="0" started-at="2016-03-04T20:02:44Z" finished-at="2016-03-04T20:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHome -->
+        <test-method status="SKIP" signature="testSaveItems(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSaveForLater@c818063]" name="testSaveItems" duration-ms="1" started-at="2016-03-04T20:02:44Z" data-provider="getData" finished-at="2016-03-04T20:02:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cookware]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tea Kettles]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Breville IQ Kettle Pure]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSaveItems -->
+        <test-method status="SKIP" signature="clickHome()[pri:0, instance:TestSaveForLater@c818063]" name="clickHome" is-config="true" duration-ms="0" started-at="2016-03-04T20:02:44Z" finished-at="2016-03-04T20:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHome -->
+        <test-method status="SKIP" signature="testSaveItems(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSaveForLater@c818063]" name="testSaveItems" duration-ms="1" started-at="2016-03-04T20:02:44Z" data-provider="getData" finished-at="2016-03-04T20:02:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bakeware]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cake Pans]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nonstick Madeleine Pan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSaveItems -->
+      </class> <!-- TestSaveForLater -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
